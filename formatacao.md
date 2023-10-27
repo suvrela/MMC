@@ -5,6 +5,7 @@
 Nas últimas aulas vimos sobre formatação de computadores e instalação de sistemas operacionais. Em primeiro momento, aprendemos como instalar o sistema operacional Linux (ubuntu). Por causa de alguns problemas, tivemos que retirar do computador o Windows e deixar somente o Ubuntu. Na aula Seguinte, Fizemos a instalação do Windows e deixando somente ele. No decorrer dessas aulas vimos sobre principalmente a respeito de partição de disco, partição lógica, primária e secundária. Aprendemos a respeito também da alteração da ordem da inicialização de sistema dual boot. vimos que só consiguimos trocar a ordem se formos pelo terminal do Linux. Em seguida colocarei o passo a passo de como configurar. 
 
 Antes de configurarmos, precisamos ir na BIOS do computador para mudar a configuração. 
+Para entrar na BIOS, fique apertando a tecla f2 quando ligar o PC. Depois vá em System Configuration - SATA Operation - 
 
 Mudando a ordem de boot no Ubuntu (ou similares) com GRUB 2:
 
