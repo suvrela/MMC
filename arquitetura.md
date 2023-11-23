@@ -1,6 +1,6 @@
 # Aquitetura de computadores 
-## Aula 05 - 14/09/2023 
-### Raquel Simão 
+## Aula 05 - 22/11/2023 
+### Rayla Avilar 
 
 # O que é arquitetura? 
 
